@@ -22,8 +22,6 @@ Criar uma experiência digital que:
 - HTML  
 - CSS  
 - JavaScript  
-- (adicione outras linguagens ou ferramentas, se houver)
-
 ---
 
 ## 🚀 Proposta
