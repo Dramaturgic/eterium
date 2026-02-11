@@ -26,7 +26,7 @@ Criar uma experiência digital que:
 
 ## 🚀 Proposta
 
-O projeto buscou unir design e funcionalidade, transformando a apresentação do RPG em uma experiência imersiva, organizada e acessível ao usuário.
+O projeto buscou unir design e funcionalidade, mesmo sendo uma coisa mais voltada ao vibe codding, consegui me dar bem realizando uma UI/UX bem desenvolvida.
 
 ---
 
